@@ -4,7 +4,7 @@
 
 
 
-<img align="right" alt="coding image" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" width="400" />
+<img align="right" alt="coding image" src="https://cdn.dribbble.com/users/1787323/screenshots/11310814/media/78d925f388bdfd914f5c84a30261e239.png?compress=1&resize=400x300" width="400" />
 
 - 🔭 I’m currently working on [Odoo As Trainer ]()
 
