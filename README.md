@@ -1,4 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey%20I%27m%20Khaalid%20Gaduudow%F0%9F%8C%A9&animation=twinkling&fontSize=40)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230070FF&lines=Khlalid+Mohamed+Gaduudow)
+
 # About Me 😁
 <p>I'm Khalid and Flutter Dev who passtionate developing Apps, currently working on Odoo as Trainer.></p>
 
