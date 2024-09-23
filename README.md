@@ -3,7 +3,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230070FF&lines=Khlalid+Mohamed+Gaduudow)
 
 # About Me 😁
-<p>I'm Khalid and Flutter Dev who passtionate developing Apps, currently working on Odoo as Trainer.></p>
+<p>I'm Khalid and i am network eng , currently working on Odoo as Trainer.></p>
 
 
 
@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [Odoo As Trainer ]()
 
-- 🌱 in my skills  ** Fullter, Graphic Design **
+- 🌱 in my skills  ** network , Graphic Design **
 
 - 💬 Ask me about this : **Illustrator, , After Effect,  and Odoo **
 
